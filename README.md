@@ -17,10 +17,10 @@ The functions listed below require the SQLDF package to be installed or your com
 internet so that the package can be downloaded.
 
 <ol>
-<li><b>plot1.R</b> will import the unzipped file that is in your wotking directory and generate the plot1.png file</li>
-<li><b>plot2.R</b> will import the unzipped file that is in your wotking directory and generate the plot2.png file</li>
-<li><b>plot3.R</b> will import the unzipped file that is in your wotking directory and generate the plot3.png file</li>
-<li><b>plot4.R</b> will import the unzipped file that is in your wotking directory and generate the plot4.png file</li>
+<li><b>plot1.R</b> will import the unzipped file that is in your working directory and generate the plot1.png file</li>
+<li><b>plot2.R</b> will import the unzipped file that is in your working directory and generate the plot2.png file</li>
+<li><b>plot3.R</b> will import the unzipped file that is in your working directory and generate the plot3.png file</li>
+<li><b>plot4.R</b> will import the unzipped file that is in your working directory and generate the plot4.png file</li>
 </ol>
 
 
